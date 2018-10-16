@@ -1,0 +1,11 @@
+C:\Proyectos Visual Studio\Celsius-y-Fahernheit\Celsius-y-Fahernheit\bin\Debug\Celsius-y-Fahernheit.exe
+C:\Proyectos Visual Studio\Celsius-y-Fahernheit\Celsius-y-Fahernheit\bin\Debug\Celsius-y-Fahernheit.pdb
+C:\Proyectos Visual Studio\Celsius-y-Fahernheit\Celsius-y-Fahernheit\bin\Debug\Celsius-y-Fahernheit.xml
+C:\Proyectos Visual Studio\Celsius-y-Fahernheit\Celsius-y-Fahernheit\obj\Debug\Celsius-y-Fahernheit.vbprojResolveAssemblyReference.cache
+C:\Proyectos Visual Studio\Celsius-y-Fahernheit\Celsius-y-Fahernheit\obj\Debug\Celsius_y_Fahernheit.Form1.resources
+C:\Proyectos Visual Studio\Celsius-y-Fahernheit\Celsius-y-Fahernheit\obj\Debug\Celsius_y_Fahernheit.Resources.resources
+C:\Proyectos Visual Studio\Celsius-y-Fahernheit\Celsius-y-Fahernheit\obj\Debug\Celsius-y-Fahernheit.vbproj.GenerateResource.cache
+C:\Proyectos Visual Studio\Celsius-y-Fahernheit\Celsius-y-Fahernheit\obj\Debug\Celsius-y-Fahernheit.vbproj.CoreCompileInputs.cache
+C:\Proyectos Visual Studio\Celsius-y-Fahernheit\Celsius-y-Fahernheit\obj\Debug\Celsius-y-Fahernheit.exe
+C:\Proyectos Visual Studio\Celsius-y-Fahernheit\Celsius-y-Fahernheit\obj\Debug\Celsius-y-Fahernheit.xml
+C:\Proyectos Visual Studio\Celsius-y-Fahernheit\Celsius-y-Fahernheit\obj\Debug\Celsius-y-Fahernheit.pdb
